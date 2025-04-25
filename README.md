@@ -1,2 +1,2 @@
 # Iris-Flowers-Models
-In this project, I used the very famous Iris flower data set to compare and create accurate models. 
+In this project, I used the very famous Iris flower data set to compare and create accurate models. I split the data set with training data (used to train the model) being 80% and testing data (validating the model) being 20%. I then created several different models and compared them all. The Support Vector Machines (SVM) model had the largest estimated accuracy at around 98%. I then used this model to make predictions and create accuracy scores.  
